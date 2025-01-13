@@ -86,8 +86,9 @@
 
                             <h5>Say hello</h5>
                             <p>
+                            +91-8767058559
+                            <br>
                             kirtidasthere@Gmail.com
-                            shreyashdeshmukh@gmail.com
                             <br>
 
                             </p>
